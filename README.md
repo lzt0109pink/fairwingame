@@ -1,15 +1,20 @@
-# Basic Sample Hardhat Project
+本项目由fairwin项目改编而来
+因为是本人根据模仿练习的第一个项目所有有一些不方便之处
+用户需要自己切换ethw链
+网络名称
+ETHW-mainnet
+新的 RPC URL
+https://mainnet.ethereumpow.org
+链 ID
+10001
+货币符号
+ETHW
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+node文档太过于大无法在github上传 需要下载 react ether.js 等依赖
+所以我们将他们上传在ipfs上   QmUmoQ3CgwfHxHQKZsdegnhCy1cSdz4o4ZFn95rPBg7q1Q
 
-Try running some of the following tasks:
+运行页面 npm run dev
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+部署在 2345999.eth.limo
+
+
